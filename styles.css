@@ -1,0 +1,78 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightyellow;
+}
+
+.page-name {
+    font: bolder;
+    color: maroon;
+    font-size: 400%;
+}
+
+.menu {
+    background-color: lemonchiffon;
+    padding: 40px;
+    padding-top: 5px;
+    margin: 40px;
+    list-style: none;
+    border-width: 8px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: maroon;
+}
+
+.course {
+color: maroon;
+}
+
+.course-name {
+    font-family: cursive;
+    font-size: 270%;
+}
+
+.course-hours {
+    color: darkblue
+}
+
+.course-dishes{
+    
+}
+
+.dish {
+    list-style: none;
+    
+}
+
+.dish-name{
+    font-size: 200%;
+}
+
+.ingrediants{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+} 
+
+.separator{
+    color: darkblue;
+    
+    
+}
+
+.tags{
+    color: darkblue;
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    border-color: darkblue ;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding:10px;
+    
+}
+
+.tag{
+    color: maroon;
+    
+}
